@@ -56,7 +56,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or issues, please reach out via:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **GitHub:** [your-github-username](https://github.com/your-github-username)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- **Email:** [gvrasmika@gmail.com](mailto:gvrasmika@gmail.com)
+- **LinkedIn:** [Rasmika-Vijayabaskaran](https://www.linkedin.com/in/rasmika-vijayabaskaran-020670272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
